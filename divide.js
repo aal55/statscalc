@@ -1,4 +1,4 @@
 function divide(a, b) {
-    return b / a;
+    return a / b;
 }
 module.exports = divide;

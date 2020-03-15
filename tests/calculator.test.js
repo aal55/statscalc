@@ -8,7 +8,7 @@ test('Calculator Add 2 and 6 to get 8', () => {
 
 test('Calculator Subtract 4 by 1 to get 3', () => {
     let Calc = new Calculator();
-    expect(Calc.Subtract(1, 4)).toBe(3);
+    expect(Calc.Subtract(4, 1)).toBe(3);
     expect(Calc.Result).toBe(3);
 });
 
@@ -20,7 +20,7 @@ test('Calculator Multiply 5 by 3 to get 15', () => {
 
 test('Calculator Divide 8 by 2 to get 4', () => {
     let Calc = new Calculator();
-    expect(Calc.Divide(2, 8)).toBe(4);
+    expect(Calc.Divide(8, 2)).toBe(4);
     expect(Calc.Result).toBe(4);
 });
 
