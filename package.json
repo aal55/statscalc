@@ -12,9 +12,11 @@
   "author": "Aaron Leu",
   "email": "aal55@njit.edu",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "coveralls": "^3.0.9",
-    "jest": "^25.1.0",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
     "jstat": "^1.9.2",
     "seedrandom": "^3.0.5",
     "simple-statistics": "^7.0.8"
