@@ -1,0 +1,22 @@
+{
+  "name": "statscalc",
+  "version": "1.0.0",
+  "description": "Individual Statistics Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aaron Leu",
+  "email": "aal55@njit.edu",
+  "license": "ISC",
+  "dependencies": {
+    "coveralls": "^3.0.9",
+    "jest": "^25.1.0",
+    "jstat": "^1.9.2",
+    "seedrandom": "^3.0.5",
+    "simple-statistics": "^7.0.8"
+  }
+}
