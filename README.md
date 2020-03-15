@@ -1,0 +1,2 @@
+# StatsCalculator
+[![Coverage Status](https://coveralls.io/repos/github/aal55/statscalc/badge.svg?branch=master)](https://coveralls.io/github/aal55/statscalc?branch=master) [![Build Status](https://travis-ci.com/aal55/statscalc.svg?branch=master)](https://travis-ci.com/aal55/statscalc)
